@@ -1,0 +1,2 @@
+print("which are the numbers you want to print")
+print( int(input()) + int(input()) )
